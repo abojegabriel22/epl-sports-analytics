@@ -1,0 +1,81 @@
+Date,HomeTeam,AwayTeam,HomePreviousForm,AwayPreviousForm,HomeFormPoints,AwayFormPoints
+2026-08-21,Arsenal,Coventry,No history,No history,0,0
+2026-08-22,Hull,Man United,No history,No history,0,0
+2026-08-22,Everton,Crystal Palace,No history,No history,0,0
+2026-08-22,Ipswich,Sunderland,No history,No history,0,0
+2026-08-22,Nott'm Forest,Leeds,No history,No history,0,0
+2026-08-22,Brentford,Tottenham,No history,No history,0,0
+2026-08-23,Brighton,Aston Villa,No history,No history,0,0
+2026-08-23,Man City,Bournemouth,No history,No history,0,0
+2026-08-23,Newcastle,Liverpool,No history,No history,0,0
+2026-08-24,Fulham,Chelsea,No history,No history,0,0
+2026-08-28,Crystal Palace,Man City,L,W,0,3
+2026-08-29,Liverpool,Nott'm Forest,D,L,1,0
+2026-08-29,Bournemouth,Everton,L,W,0,3
+2026-08-29,Coventry,Hull,L,W,0,3
+2026-08-29,Tottenham,Newcastle,L,D,0,1
+2026-08-30,Chelsea,Brighton,W,W,3,3
+2026-08-30,Leeds,Brentford,W,W,3,3
+2026-08-30,Sunderland,Fulham,L,L,0,0
+2026-08-30,Man United,Ipswich,L,W,0,3
+2026-08-31,Aston Villa,Arsenal,L,W,0,3
+2026-09-04,Ipswich,Liverpool,W-L,D-D,3,2
+2026-09-05,Newcastle,Bournemouth,D-W,L-D,4,1
+2026-09-05,Brentford,Sunderland,W-D,L-W,4,3
+2026-09-05,Brighton,Leeds,W-L,W-D,3,4
+2026-09-05,Fulham,Crystal Palace,L-L,L-L,0,0
+2026-09-05,Man City,Coventry,W-W,L-L,6,0
+2026-09-05,Nott'm Forest,Tottenham,L-D,L-L,1,0
+2026-09-05,Hull,Aston Villa,W-W,L-L,6,0
+2026-09-06,Everton,Man United,W-D,L-W,4,3
+2026-09-06,Arsenal,Chelsea,W-W,W-W,6,6
+2026-09-12,Aston Villa,Nott'm Forest,L-L-D,L-D-D,1,2
+2026-09-12,Bournemouth,Brentford,L-D-D,W-D-D,2,5
+2026-09-12,Chelsea,Hull,W-W-L,W-W-D,6,7
+2026-09-12,Crystal Palace,Ipswich,L-L-W,W-L-L,3,3
+2026-09-12,Liverpool,Fulham,D-D-W,L-L-L,5,0
+2026-09-12,Tottenham,Everton,L-L-D,W-D-D,1,5
+2026-09-12,Sunderland,Arsenal,L-W-D,W-W-W,4,9
+2026-09-13,Coventry,Brighton,L-L-L,W-L-D,0,4
+2026-09-13,Man United,Man City,L-W-D,W-W-W,4,9
+2026-09-14,Leeds,Newcastle,W-D-D,D-W-D,5,5
+2026-09-18,Brentford,Chelsea,W-D-D-D,W-W-L-D,6,7
+2026-09-19,Tottenham,Aston Villa,L-L-D-D,L-L-D-L,2,1
+2026-09-19,Brighton,Arsenal,W-L-D-W,W-W-W-W,7,12
+2026-09-19,Everton,Ipswich,W-D-D-D,W-L-L-W,6,6
+2026-09-19,Newcastle,Hull,D-W-D-L,W-W-D-D,5,8
+2026-09-19,Nott'm Forest,Coventry,L-D-D-W,L-L-L-L,5,0
+2026-09-20,Bournemouth,Liverpool,L-D-D-D,D-D-W-D,3,6
+2026-09-20,Leeds,Crystal Palace,W-D-D-W,L-L-W-L,8,3
+2026-09-20,Man City,Sunderland,W-W-W-W,L-W-D-L,12,4
+2026-09-20,Fulham,Man United,L-L-L-D,L-W-D-L,1,4
+2026-10-10,Arsenal,Leeds,W-W-W-W-L,W-D-D-W-D,12,9
+2026-10-10,Aston Villa,Brentford,L-L-D-L-W,W-D-D-D-W,4,9
+2026-10-10,Chelsea,Bournemouth,W-W-L-D-L,L-D-D-D-L,7,3
+2026-10-10,Ipswich,Fulham,W-L-L-W-L,L-L-L-D-D,6,2
+2026-10-10,Sunderland,Brighton,L-W-D-L-L,W-L-D-W-W,4,10
+2026-10-10,Man United,Tottenham,L-W-D-L-D,L-L-D-D-L,5,2
+2026-10-11,Crystal Palace,Nott'm Forest,L-L-W-L-D,L-D-D-W-L,4,5
+2026-10-11,Hull,Everton,W-W-D-D-L,W-D-D-D-W,8,9
+2026-10-11,Liverpool,Man City,D-D-W-D-W,W-W-W-W-W,9,15
+2026-10-12,Coventry,Newcastle,L-L-L-L-W,D-W-D-L-W,3,8
+2026-10-17,Everton,Chelsea,D-D-D-W-D,W-L-D-L-W,7,7
+2026-10-17,Brentford,Liverpool,D-D-D-W-D,D-W-D-W-L,7,8
+2026-10-17,Fulham,Hull,L-L-D-D-L,W-D-D-L-D,2,6
+2026-10-17,Man City,Ipswich,W-W-W-W-W,L-L-W-L-W,15,6
+2026-10-17,Newcastle,Aston Villa,W-D-L-W-L,L-D-L-W-D,7,5
+2026-10-18,Bournemouth,Sunderland,D-D-D-L-L,W-D-L-L-L,3,4
+2026-10-18,Brighton,Crystal Palace,L-D-W-W-W,L-W-L-D-W,10,7
+2026-10-18,Leeds,Man United,D-D-W-D-L,W-D-L-D-D,6,6
+2026-10-18,Nott'm Forest,Arsenal,D-D-W-L-L,W-W-W-L-W,5,12
+2026-10-19,Tottenham,Coventry,L-D-D-L-D,L-L-L-W-W,3,6
+2026-10-23,Ipswich,Nott'm Forest,L-W-L-W-L,D-W-L-L-L,6,4
+2026-10-24,Aston Villa,Man City,D-L-W-D-W,W-W-W-W-W,8,15
+2026-10-24,Arsenal,Everton,W-W-L-W-W,D-D-W-D-L,12,6
+2026-10-24,Coventry,Fulham,L-L-W-W-L,L-D-D-L-W,6,5
+2026-10-24,Chelsea,Tottenham,L-D-L-W-W,D-D-L-D-W,7,6
+2026-10-25,Crystal Palace,Newcastle,W-L-D-W-L,D-L-W-L-L,7,4
+2026-10-25,Hull,Brentford,D-D-L-D-L,D-D-W-D-L,3,6
+2026-10-25,Liverpool,Brighton,W-D-W-L-W,D-W-W-W-W,10,13
+2026-10-25,Man United,Bournemouth,D-L-D-D-D,D-D-L-L-W,4,5
+2026-10-25,Sunderland,Leeds,D-L-L-L-L,D-W-D-L-D,1,6

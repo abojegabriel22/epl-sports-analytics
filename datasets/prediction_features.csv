@@ -1,0 +1,81 @@
+Date,HomeTeam,AwayTeam,HomeFormPoints,AwayFormPoints,HomeAvgGoalsScored,AwayAvgGoalsScored,HomeAvgGoalsConceded,AwayAvgGoalsConceded,HomeMatchesPlayed,AwayMatchesPlayed,HomeAdvantage,Result
+2026-08-21,Arsenal,Coventry,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-22,Hull,Man United,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-22,Everton,Crystal Palace,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-22,Ipswich,Sunderland,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-22,Nott'm Forest,Leeds,0,0,0.0,0.0,0.0,0.0,0,0,1,A
+2026-08-22,Brentford,Tottenham,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-23,Brighton,Aston Villa,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-23,Man City,Bournemouth,0,0,0.0,0.0,0.0,0.0,0,0,1,H
+2026-08-23,Newcastle,Liverpool,0,0,0.0,0.0,0.0,0.0,0,0,1,D
+2026-08-24,Fulham,Chelsea,0,0,0.0,0.0,0.0,0.0,0,0,1,A
+2026-08-28,Crystal Palace,Man City,0,3,0.0,2.0,2.0,1.0,1,1,1,A
+2026-08-29,Liverpool,Nott'm Forest,1,0,2.0,0.0,2.0,1.0,1,1,1,D
+2026-08-29,Bournemouth,Everton,0,3,1.0,2.0,2.0,0.0,1,1,1,D
+2026-08-29,Coventry,Hull,0,3,0.0,2.0,3.0,0.0,1,1,1,A
+2026-08-29,Tottenham,Newcastle,0,1,0.0,2.0,3.0,2.0,1,1,1,A
+2026-08-30,Chelsea,Brighton,3,3,3.0,4.0,2.0,0.0,1,1,1,H
+2026-08-30,Leeds,Brentford,3,3,1.0,3.0,0.0,0.0,1,1,1,D
+2026-08-30,Sunderland,Fulham,0,0,1.0,2.0,2.0,3.0,1,1,1,H
+2026-08-30,Man United,Ipswich,0,3,0.0,2.0,2.0,1.0,1,1,1,H
+2026-08-31,Aston Villa,Arsenal,0,3,0.0,3.0,4.0,0.0,1,1,1,A
+2026-09-04,Ipswich,Liverpool,3,2,2.0,2.0,3.0,2.0,2,2,1,A
+2026-09-05,Newcastle,Bournemouth,4,1,2.0,1.0,1.0,1.5,2,2,1,D
+2026-09-05,Brentford,Sunderland,4,3,2.0,1.0,0.5,1.0,2,2,1,D
+2026-09-05,Brighton,Leeds,3,4,3.5,1.0,2.0,0.5,2,2,1,D
+2026-09-05,Fulham,Crystal Palace,0,0,1.0,0.5,2.0,3.0,2,2,1,A
+2026-09-05,Man City,Coventry,6,0,3.0,0.0,1.0,2.0,2,2,1,H
+2026-09-05,Nott'm Forest,Tottenham,1,0,1.0,0.0,1.5,2.5,2,2,1,D
+2026-09-05,Hull,Aston Villa,6,0,1.5,0.0,0.0,2.5,2,2,1,D
+2026-09-06,Everton,Man United,4,3,1.5,2.5,0.5,2.0,2,2,1,D
+2026-09-06,Arsenal,Chelsea,6,6,2.0,3.5,0.0,2.5,2,2,1,H
+2026-09-12,Aston Villa,Nott'm Forest,1,2,0.0,0.6666666666666666,1.6666666666666667,1.0,3,3,1,A
+2026-09-12,Bournemouth,Brentford,2,5,1.3333333333333333,1.6666666666666667,1.6666666666666667,0.6666666666666666,3,3,1,D
+2026-09-12,Chelsea,Hull,6,7,2.6666666666666665,1.0,2.3333333333333335,0.0,3,3,1,D
+2026-09-12,Crystal Palace,Ipswich,3,3,1.3333333333333333,1.3333333333333333,2.6666666666666665,2.6666666666666665,3,3,1,A
+2026-09-12,Liverpool,Fulham,5,0,2.0,1.3333333333333333,1.3333333333333333,2.3333333333333335,3,3,1,D
+2026-09-12,Tottenham,Everton,1,5,0.0,1.6666666666666667,1.6666666666666667,1.0,3,3,1,D
+2026-09-12,Sunderland,Arsenal,4,9,1.0,2.0,1.0,0.3333333333333333,3,3,1,A
+2026-09-13,Coventry,Brighton,0,4,0.0,2.6666666666666665,1.6666666666666667,1.6666666666666667,3,3,1,A
+2026-09-13,Man United,Man City,4,9,2.3333333333333335,2.3333333333333335,2.0,0.6666666666666666,3,3,1,A
+2026-09-14,Leeds,Newcastle,5,5,1.0,2.0,0.6666666666666666,1.3333333333333333,3,3,1,H
+2026-09-18,Brentford,Chelsea,6,7,1.75,2.5,1.0,2.25,4,4,1,H
+2026-09-19,Tottenham,Aston Villa,2,1,0.0,0.25,1.25,1.75,4,4,1,A
+2026-09-19,Brighton,Arsenal,7,12,3.25,2.0,1.25,0.25,4,4,1,H
+2026-09-19,Everton,Ipswich,6,6,1.25,1.75,0.75,2.5,4,4,1,H
+2026-09-19,Newcastle,Hull,5,8,1.75,1.25,2.0,0.5,4,4,1,H
+2026-09-19,Nott'm Forest,Coventry,5,0,1.0,0.0,1.0,2.5,4,4,1,A
+2026-09-20,Bournemouth,Liverpool,3,6,1.5,1.5,1.75,1.0,4,4,1,A
+2026-09-20,Leeds,Crystal Palace,8,3,1.75,1.5,0.75,2.75,4,4,1,D
+2026-09-20,Man City,Sunderland,12,4,2.0,0.75,0.5,1.25,4,4,1,H
+2026-09-20,Fulham,Man United,1,4,1.0,1.75,1.75,1.75,4,4,1,D
+2026-10-10,Arsenal,Leeds,12,9,1.6,1.4,0.8,0.6,5,5,1,H
+2026-10-10,Aston Villa,Brentford,4,9,0.8,2.0,1.8,0.8,5,5,1,D
+2026-10-10,Chelsea,Bournemouth,7,3,2.0,1.2,2.4,1.6,5,5,1,H
+2026-10-10,Ipswich,Fulham,6,2,1.4,1.0,2.2,1.6,5,5,1,H
+2026-10-10,Sunderland,Brighton,4,10,1.2,3.2,2.0,1.0,5,5,1,A
+2026-10-10,Man United,Tottenham,5,2,1.6,0.4,1.6,1.6,5,5,1,D
+2026-10-11,Crystal Palace,Nott'm Forest,4,5,1.2,0.8,2.2,1.0,5,5,1,H
+2026-10-11,Hull,Everton,8,9,1.2,1.2,0.8,0.6,5,5,1,D
+2026-10-11,Liverpool,Man City,9,15,1.4,2.6,0.8,1.0,5,5,1,A
+2026-10-12,Coventry,Newcastle,3,8,0.2,1.8,2.0,1.8,5,5,1,H
+2026-10-17,Everton,Chelsea,7,7,1.2,2.4,1.0,2.2,6,6,1,A
+2026-10-17,Brentford,Liverpool,7,8,1.8,1.0,1.2,1.0,6,6,1,A
+2026-10-17,Fulham,Hull,2,6,0.8,1.2,1.4,1.2,6,6,1,H
+2026-10-17,Man City,Ipswich,15,6,2.8,1.4,0.8,2.2,6,6,1,H
+2026-10-17,Newcastle,Aston Villa,7,5,1.6,1.2,2.2,1.4,6,6,1,A
+2026-10-18,Bournemouth,Sunderland,3,4,1.2,1.0,2.2,2.0,6,6,1,H
+2026-10-18,Brighton,Crystal Palace,10,7,2.8,1.8,1.0,2.0,6,6,1,H
+2026-10-18,Leeds,Man United,6,6,1.4,1.8,1.0,1.4,6,6,1,D
+2026-10-18,Nott'm Forest,Arsenal,5,12,1.0,1.4,1.4,1.0,6,6,1,A
+2026-10-19,Tottenham,Coventry,3,6,0.6,1.0,1.2,1.6,6,6,1,H
+2026-10-23,Ipswich,Nott'm Forest,6,4,1.4,0.6,1.8,1.2,7,7,1,D
+2026-10-24,Aston Villa,Man City,8,15,1.4,2.6,1.2,1.0,7,7,1,H
+2026-10-24,Arsenal,Everton,12,6,1.4,1.0,1.0,1.2,7,7,1,H
+2026-10-24,Coventry,Fulham,6,5,1.2,1.0,2.0,1.2,7,7,1,A
+2026-10-24,Chelsea,Tottenham,7,6,2.0,1.2,1.6,1.0,7,7,1,A
+2026-10-25,Crystal Palace,Newcastle,7,4,1.6,1.2,2.2,2.4,7,7,1,A
+2026-10-25,Hull,Brentford,3,6,1.0,1.8,1.4,1.4,7,7,1,D
+2026-10-25,Liverpool,Brighton,10,13,1.0,3.2,0.8,0.2,7,7,1,H
+2026-10-25,Man United,Bournemouth,4,5,1.0,1.4,1.2,2.0,7,7,1,A
+2026-10-25,Sunderland,Leeds,1,6,0.8,1.4,2.4,1.0,7,7,1,D

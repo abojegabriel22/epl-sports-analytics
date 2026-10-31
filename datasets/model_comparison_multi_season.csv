@@ -1,0 +1,4 @@
+,Accuracy,Balanced Accuracy,Log Loss
+Logistic Regression,0.4375,0.409519185816521,1.0929197367300625
+Random Forest,0.3625,0.3387995828388535,1.1308665218439389
+Majority-Class Baseline,0.3875,0.3333333333333333,
